@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#first{
+    background: #0B2C3D;
+}
+/* #third{
+    position: relative;
+}
+#fourth{
+    position: absolute;
+    overflow: hidden;
+} */
+#rent {
+    background: url(../img/1.jpg);
+    height: 331px;
+    width: 482px;
+    background-size: cover;
+}
+#rent_two {
+    background: url(../img/2.jpg);
+    height: 331px;
+    width: 482px;
+    background-size: cover;
+}
+#rent_three {
+    background: url(../img/5.jpg);
+    height: 331px;
+    width: 482px;
+    background-size: cover;
+}
+#thirteen {
+    background: url(../img/20.jpg);
+   
+    background-size: cover;
+}
+#eleventh{
+    background: url(../img/19.jpg);
+    height: 350px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.first_card:hover{
+    border-bottom: 4px solid #ff5a3c;
+}
+.first_card:hover a{
+    color: #ff5a3c;
+}
+.scond_card:hover{
+    border-bottom: 4px solid #ff5a3c;
+}
+.scond_card:hover a{
+    color: #ff5a3c;
+}
+.third_card:hover {
+    border-bottom: 4px solid #ff5a3c; 
+}
+.third_card:hover a{
+    color: #ff5a3c;
+}
+.paking:hover{
+    background: #ff5a3c;
+    
+}
+.paking:hover h4{
+  color: white;
+}
+.agent_hov:hover{
+    border-bottom: 4px solid #ff5a3c; 
+    color: #ff5a3c;
+}
+.admin_hov:hover h4{
+    color: #ff5a3c;
+}
+
+#fifteen a:hover{
+    color: #ff5a3c;
+}
+#sixteen p:hover{
+    color: #ff5a3c;
+}
+#sixteen i:hover{
+    color: #ff5a3c;
+}
+#sixteen h4:hover{
+    color: #ff5a3c;
+}
+#fourth a:hover{
+    color: #ff5a3c;
+    background: rgb(238, 237, 237);
+}
+#fourth .find{
+    background: #ff5a3c;
+    color: white;
+}
+#fourth .find:hover{
+    background: rgb(238, 237, 237);
+    color: #ff5a3c;
+    font-weight: bold;
+}
+
+#second a:hover{
+    color: white;
+    background:#ff5a3c;
+}
+#second a{
+    color: black;
+}
+#second i{
+    background: white;
+}
+#second i:hover{
+    background: #ff5a3c;
+    color: white;  
+}
+#first a{
+    color: white;
+    background: #ff5a3c;
+}
+#first a:hover{
+    background: white;
+    color: #ff5a3c;  
+    font-weight: bold;
+}
+#first i:hover{
+    color: #ff5a3c;  
+}
+#first p{
+    color: white; 
+}
+#first p:hover{
+    color: #ff5a3c; 
+}
+#fifth .service{
+    background: #ff5a3c;
+    color: white;
+}
+#fifth .service:hover{
+    background: rgb(238, 237, 237);
+    color: #ff5a3c;
+    font-weight: bold;
+}
+#third .service{
+    background: #ff5a3c;
+    color: white;
+}
+#third .service:hover{
+    background: rgb(238, 237, 237);
+    color: #ff5a3c;
+    font-weight: bold;
+}
+#third .learn{
+    color: black;
+}
+#third .learn:hover{
+    background: rgb(238, 237, 237);
+    color: #ff5a3c;
+    font-weight: bold;
+}
