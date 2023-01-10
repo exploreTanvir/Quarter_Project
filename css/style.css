@@ -165,3 +165,13 @@ a {
   color: #ff5a3c;
   font-weight: bold;
 }
+/* .more {
+  background: rgb(55, 230, 233);
+  color: #ff5a3c;
+  font-weight: bold;
+} */
+.more:hover {
+  background: rgb(255, 255, 255);
+  color: #ff5a3c;
+  font-weight: bold;
+}
